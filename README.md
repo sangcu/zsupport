@@ -18,3 +18,11 @@ Suppose API for admin and widget.
 
 ##Sample Site##
   + Sample site is a site that show how to use ZSupport. This site hosted by Openshift on https://zsupport.me [This domain is unavailable so far. We will host on another domain soon]
+
+##Contribution##
+  ZSupport is opensource platform. Your contribution is welcome for any case.
+  + If you are developers, make a pull request.
+  + If you are end user, sugguest a feature is always welcome
+
+##Licencing##
+  You can do anything you want without take care any licencing issues.
