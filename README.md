@@ -5,7 +5,7 @@ Suppose live chat for your site. A platform that use javascript for both front-e
 
 Check diagram as below for further information of the project
 
-![ZSupport Diagram](https://s3-ap-southeast-1.amazonaws.com/imageware-asia/ZSupport-Diagram.jpg)
+![ZSupport Diagram](https://s3-ap-southeast-1.amazonaws.com/imageware-asia/ZSupport-Diagram.png)
 
 ##API-Widget##
 Suppose API for admin and widget.
