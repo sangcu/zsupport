@@ -17,7 +17,7 @@ Suppose API for admin and widget.
   + Admin communicate with API in a real time mode.
 
 ##Sample Site##
-  + Sample site is a site that show how to use ZSupport. This site hosted by Openshift on https://zsupport.me [This domain is unavailable so far. We will host on another domain soon]
+  + Sample site is a site that show how to use ZSupport. This site hosted by Openshift on https://site-supportme.rhcloud.com
 
 ##Contributions##
   ZSupport is opensource platform. Your contribution is welcome for any case.
