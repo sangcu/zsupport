@@ -1,3 +1,6 @@
 [submodule "zsupport-server"]
 	path = zsupport-server
 	url = https://github.com/sangcu/zsupport-server.git
+[submodule "zsupport-client"]
+	path = zsupport-client
+	url = https://github.com/sangcu/zsupport-client.git
