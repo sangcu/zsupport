@@ -24,5 +24,5 @@ Suppose API for admin and widget.
   + If you are developers, make a pull request.
   + If you are end user, suggest a feature is always welcome
 
-##Licencing##
+##Licensing##
   You can do anything you want without take care any licencing issues.
